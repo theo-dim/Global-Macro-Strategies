@@ -1,0 +1,2 @@
+# Long/Short Global Macro Strategies with Target β Using the 3-Factor Model
+In this project we construct a Long/Short Global Macro Strategy based on French Fama 3-Factor Model with a Target Beta and evaluate its sensitivity to variation of Beta and its sensitivity to the length of the estimation for covariance matrix and the expected returns under different market scenario. Several comparisons are drawn between different target betas as well as different term structures.
